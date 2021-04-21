@@ -13,8 +13,9 @@
 - 😄 Pronouns: ...Abhishek
 - ⚡ Fun fact: ...My Brain can't comprehend anymore, Popcorn!!!
 
-     ![Visitor Count](https://profile-counter.glitch.me/{Abhishek010397}/count.svg) 
+     
      
      [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
 
     
+    [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/abserari)
