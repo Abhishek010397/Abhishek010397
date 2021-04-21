@@ -5,8 +5,8 @@
   
 - DevOps Engineer | Java Microservices Developer
 - Open Source | Apache 
-- Computer Science  :coffee: | loves heart Cloud | Yet to be Data Engineer !
-- in constant search of a Research buddy
+- Computer Science  :coffee: | loves  :cloud: Cloud | Yet to be Data Engineer !  :computer:
+- in constant search of a Research buddy  :tophat:
      
      
    [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
