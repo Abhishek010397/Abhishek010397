@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... OpenSource Kubernetes Application Development
 - 💬 Ask me about ...DevOps,Java Microservices Development,Kubernetes Operators
 - 📫 How to reach me: ...https://github.com/Abhishek010397
-- 😄 Pronouns: ...01001000 01100001 01110110 01100101
+- 😄 Pronouns: ...Abhishek
 - ⚡ Fun fact: ...My Brain can't comprehend anymore, Popcorn!!!
 
      
