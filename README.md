@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Abhishek010397/Abhishek010397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... DevOps AWS Cloud, Data Engineering And Microservices Development In JAVA
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://github.com/Abhishek010397
 - 😄 Pronouns: ...01001000 01100001 01110110 01100101
 - ⚡ Fun fact: ...My Brain can't comprehend anymore, Popcorn!!!
--->
+
