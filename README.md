@@ -13,3 +13,7 @@
 - 😄 Pronouns: ...01001000 01100001 01110110 01100101
 - ⚡ Fun fact: ...My Brain can't comprehend anymore, Popcorn!!!
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
+
