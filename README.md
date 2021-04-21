@@ -3,19 +3,13 @@
   ![Alt Text](https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif)
 
   
-
-
-- 🔭 I’m currently working on ... DevOps AWS Cloud, Data Engineering And Microservices Development In JAVA
-- 🌱 I’m currently learning ... Apache Spark And Streaming Data Services Including Scala And Spark
-- 👯 I’m looking to collaborate on ... OpenSource Kubernetes Application Development
-- 💬 Ask me about ...DevOps,Java Microservices Development,Kubernetes Operators
-- 📫 How to reach me: ...https://github.com/Abhishek010397
-- 😄 Pronouns: ...Abhishek
-- ⚡ Fun fact: ...My Brain can't comprehend anymore, Popcorn!!!
-
+DevOps Engineer | Java Microservices Developer
+Open Source | Apache 
+Computer Science man_technologist | loves heart Cloud | Yet to be Data Engineer !
+in constant search of a Research buddy
      
      
-     [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
 
     
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek010397)
+   ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek010397)
