@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
+
+
+
 
 - 🔭 I’m currently working on ... DevOps AWS Cloud, Data Engineering And Microservices Development In JAVA
 - 🌱 I’m currently learning ... Apache Spark And Streaming Data Services Including Scala And Spark
