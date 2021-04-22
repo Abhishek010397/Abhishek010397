@@ -17,6 +17,18 @@
    ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek010397)
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek010397&layout=compact)](https://github.com/Abhishek010397/github-readme-stats)
+   
+   
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/abhishek-dasgupta-77099b175/
 
 ### Glad to see you here     
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
