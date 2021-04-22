@@ -26,11 +26,14 @@
 
 ### Glad to see you here     
    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-                                                    You can find me on 
+                                                    
+  You can find me on 
                                                     
    [![LinkedIn][1.2]][1].
-                                                   [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without              padding)
-                                                   [1]: https://www.linkedin.com/in/abhishek-dasgupta-77099b175/
+   
+   [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+  
+   [1]: https://www.linkedin.com/in/abhishek-dasgupta-77099b175/
                                     
                                     
                                     
