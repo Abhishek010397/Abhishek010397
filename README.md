@@ -17,6 +17,4 @@
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek010397&layout=compact)](https://github.com/Abhishek010397/github-readme-stats)
 
-### Glad to see you here    
-      
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
