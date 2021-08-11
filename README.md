@@ -8,8 +8,8 @@
 
  ### What i Do
  
-- DevOps Engineer | Java Microservices Developer
-- Open Source | Apache 
+- DevOps Engineer | Java Microservices Developer | A Pythoniar 
+- Open Source | Apache | Python
 - Computer Science  :coffee: | loves  :cloud: Cloud | Yet to be a Data Engineer !  :computer:
 - In constant search of a Research Software Engineer buddy  :tophat:
      
