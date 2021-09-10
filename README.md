@@ -10,7 +10,7 @@
  
 - DevOps Engineer | Java Microservices Developer | A Pythoniar 
 - Open Source | Apache | Python
-- Computer Science  :coffee: | loves  :cloud: Cloud | Yet to be a Data Engineer !  :computer:
+- Computer Science  :coffee: | loves  :cloud: Cloud | :computer:
 - In constant search of a Research Software Engineer buddy  :tophat:
      
      
