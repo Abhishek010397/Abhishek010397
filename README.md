@@ -29,7 +29,7 @@
 
 
 ### Glad to see you here     
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+   ![](https://komarev.com/ghpvc/?username=Abhishek010397&style=plastic)
                                                     
   You can find me on 
                                                     
