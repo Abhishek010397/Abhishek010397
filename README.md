@@ -15,10 +15,6 @@
      
      
    [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
-  <a href="https://github.com/Abhishek010397/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/Abhishek010397/github-profile-trophy"/> 
-  </a>  
-
     
    ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek010397)
    
