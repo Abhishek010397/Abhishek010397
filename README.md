@@ -15,6 +15,9 @@
      
      
    [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek010397&theme=onedark)](https://github.com/Abhishek010397/github-profile-trophy)
+  <a href="https://github.com/Abhishek010397/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/Abhishek010397/github-profile-trophy"/> 
+  </a>  
 
     
    ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek010397)
@@ -26,6 +29,8 @@
   <a href="https://www.scala-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> </a>   <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/>  </a>  <a href="https://aws.amazon.com/lambda/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="lambda" width="40" height="40"/>  </a>  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>   <a href="https://kubernetes.github.io/ingress-nginx/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>  </a> <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm3" width="40" height="40"/>  </a>    <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>  </a>  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://about.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://jaas.ai/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jujucharms/jujucharms-icon.svg" alt="juju" width="40" height="40"/> </a>
 </p>
+
+
 
 
 ### Glad to see you here     
