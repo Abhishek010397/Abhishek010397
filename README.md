@@ -40,7 +40,7 @@
   
    [1]: https://www.linkedin.com/in/abhishek-dasgupta-77099b175/
    
-   Certified Kubernetes Administrator 
+   ***Certified Kubernetes Administrator*** 
    
    ![alt-text](https://github.com/Abhishek010397/Abhishek010397/blob/main/cka-certified-kubernetes-administrator.png)
    
