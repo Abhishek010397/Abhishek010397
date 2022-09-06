@@ -40,6 +40,10 @@
   
    [1]: https://www.linkedin.com/in/abhishek-dasgupta-77099b175/
    
+   Certified Kubernetes Administrator 
+   
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2be3ac91-4ce4-4ac2-a3a0-25c75dcf9ff0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+   
    
                                     
                                     
