@@ -42,6 +42,9 @@
    
    Certified Kubernetes Administrator 
    
+   ![alt-text](https://github.com/Abhishek010397/Abhishek010397/blob/main/cka-certified-kubernetes-administrator.png)
+   
+   
    https://www.credly.com/badges/2be3ac91-4ce4-4ac2-a3a0-25c75dcf9ff0/public_url
    
    
