@@ -44,7 +44,7 @@
    
    https://www.credly.com/badges/2be3ac91-4ce4-4ac2-a3a0-25c75dcf9ff0/public_url
    
-   https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png![image](https://user-images.githubusercontent.com/55708520/188610411-cff3f41a-90cf-4fd6-8076-66ae05a1d115.png)
+   
 
    
    
