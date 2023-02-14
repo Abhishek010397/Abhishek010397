@@ -47,7 +47,7 @@
    
    https://www.credly.com/badges/2be3ac91-4ce4-4ac2-a3a0-25c75dcf9ff0/public_url
    
-   ***AWS Certified Security Speciality*** 
+   ***AWS Certified Security Specialty*** 
    
    ![alt-text](https://github.com/Abhishek010397/Abhishek010397/blob/main/aws-certified-security-specialty.png)
    
