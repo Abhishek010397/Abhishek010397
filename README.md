@@ -53,6 +53,13 @@
    
    
    https://www.credly.com/badges/dc054164-c9af-4fd4-a0e0-1807c54c1d98/public_url
+
+  ***CKS: Certified Kubernetes Security Specialist*** 
+   
+   ![alt-text](https://github.com/Abhishek010397/Abhishek010397/blob/main/cks-certified-kubernetes-security-specialist.png)
+   
+   
+   https://www.credly.com/badges/e76dee70-2e30-46fe-a9e7-7ff2d5661e4a/public_url
    
    
 
